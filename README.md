@@ -3,5 +3,9 @@
 Repositorio Java para projetos focados na sintaxe da linguagem, aplicando os conceitos de POO.
 
 **Projeto Lanchonete** 
-- Objetivo: Criar um sistema que simula o funcionamento de um carrinho de compras de uma Lanchonete, criando itens, adicionando ou removendo do carrinho.
+
+**Projeto Loja**
+- Objetivo: Criar sistemas que simulam o funcionamento de um carrinho de compras, criando itens, adicionando ou removendo do carrinho.
 - Estudo: Aplicar conceitos relacionados a Orientação a Objetos, classes contrutoras, metodos GET e SET.
+
+
